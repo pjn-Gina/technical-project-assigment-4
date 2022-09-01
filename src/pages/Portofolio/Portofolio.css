@@ -1,0 +1,21 @@
+.card-title-porto {
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: 2px;
+  color: rgb(197, 126, 99);
+}
+
+.card-text-porto {
+  line-height: 1;
+  font-weight: 500;
+  color: rgb(235, 241, 235);
+  font-family: "Times New Roman", Times, serif;
+}
+
+.card-body-porto {
+  background-color: rgb(56, 65, 56);
+  border: 5px;
+  text-align: center;
+  padding: 10px 20px;
+}
